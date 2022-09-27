@@ -7,7 +7,7 @@ This saying meant that when things are not working in a way you wish, tackle it 
 This flexible mindset not only allowed me to think outside the box, it also enabled me to take in others; opinions and perspectives easier.
 ## My Professional Life
 ### Education
-B.S. in Computer Engineering at [University of California, San Diego]((https:/www.ucsd.edu) | July 2019 - Present
+B.S. in Computer Engineering at [University of California, San Diego]((https://www.ucsd.edu) | July 2019 - Present
 - GPA: 3.73
 ### Resume
 [Resume Preview](https://github.com/Chieh0501/Github-Pages/blob/VScode-Test/Resume-1.png)
