@@ -8,7 +8,7 @@ This flexible mindset not only allowed me to think outside the box, it also enab
 ## My Professional Life
 ### Education
 ### Resume
-(CHH%20Resume.pdf)
+(Github-Pages/CHH%20Resume.pdf)
 ### Skills
 ### Todo List
 ## My Personal Life
