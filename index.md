@@ -8,7 +8,7 @@ This flexible mindset not only allowed me to think outside the box, it also enab
 ## My Professional Life
 ### Education
 ### Resume
-[Resume Preview](https://github.com/Chieh0501/Github-Pages/blob/VScode-Test/Resume-1.png))
+[Resume Preview](https://github.com/Chieh0501/Github-Pages/blob/VScode-Test/Resume-1.png)
 ### Skills
 ### Todo List
 ## My Personal Life
