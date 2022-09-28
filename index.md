@@ -39,6 +39,9 @@ B.S. in Computer Engineering at [University of California, San Diego](https://ww
 - [ ] ROS2
 - [ ] OpenGL
 ## My Personal Life
-### About me
 ### Hobbies
+#### Sailing
+
+#### SnowBoarding
+
 
