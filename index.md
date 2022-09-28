@@ -41,7 +41,9 @@ B.S. in Computer Engineering at [University of California, San Diego](https://ww
 ## My Personal Life
 ### Hobbies
 #### Sailing
-
+https://user-images.githubusercontent.com/60751234/192886075-90b0f015-951f-42cb-abfe-7afb6ceeb734.mp4
 #### SnowBoarding
+![snowboard](https://user-images.githubusercontent.com/60751234/192886252-308d4db9-7823-4968-91a4-203111d043c0.jpg)
+
 
 
